@@ -3,7 +3,7 @@
 [![GitHub gift-li](https://img.shields.io/github/followers/gift-li.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gift-li)
 ![](https://komarev.com/ghpvc/?username=gift-li)
 
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://https://gift-li.github.io/ "Go to GitHub Pages homepage")
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://https://gift-li.github.io/ "Go to my GitHub Pages homepage")
 
 ## Skills
 
@@ -44,7 +44,7 @@
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </p>
 
 ### Others
