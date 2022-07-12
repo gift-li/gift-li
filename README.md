@@ -1,13 +1,48 @@
 # Hi! gift-li here!
 
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://https://gift-li.github.io/ "Go to GitHub Pages homepage")
-
+[![GitHub gift-li](https://img.shields.io/github/followers/gift-li.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gift-li)
 ![](https://komarev.com/ghpvc/?username=gift-li)
 
-## 統計Static
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://https://gift-li.github.io/ "Go to GitHub Pages homepage")
+
+## Skills
+### Language
+<p>
+  <img alt="PHP" href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Python" href="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" href="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</p>
+### Front-end
+<p>
+  <img alt="HTML5" href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Bootstrap" href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Tailwind" href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+### Back-end
+<p>
+  <img alt="MySQL" href="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQLite" href="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+### Learned Framework
+<p>
+  <img alt="Django" href="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Laravel" href="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</p>
+### Cloud Platform
+<p>
+  <img alt="Heroku" href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="Google Cloud" href="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img alt="Heroku" href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</p>
+### Others
+<p>
+  <img alt="Markdown" href="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
+
+## Statistic
 
 [![gift-li's GitHub stats](https://github-readme-stats.vercel.app/api?username=gift-li&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gift-li&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gift-li)](https://github.com/anuraghazra/github-readme-stats)
