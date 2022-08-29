@@ -1,9 +1,9 @@
-# Hi! gift-li here!
+# Hi & Welcome! Gift-li here!
 
 [![GitHub gift-li](https://img.shields.io/github/followers/gift-li.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gift-li)
 ![](https://komarev.com/ghpvc/?username=gift-li)
 
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://https://gift-li.github.io/ "Go to my GitHub Pages homepage")
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://gift-li.github.io/ "Go to my GitHub Pages homepage")
 
 ## Skills
 
